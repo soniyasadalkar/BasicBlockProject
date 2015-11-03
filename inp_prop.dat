@@ -1,0 +1,9 @@
+a = a + 1
+b = 10
+d = b + 2
+b = c + b
+jmp label
+a = b
+c = a + d
+a = e + 2
+f = a + 3

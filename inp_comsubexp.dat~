@@ -1,0 +1,7 @@
+z = x + y
+c = a + b
+e = 3 + e
+f = a + b
+label: a = a + 1
+c = c + 1
+d = c + 1

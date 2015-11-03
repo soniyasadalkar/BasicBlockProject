@@ -1,0 +1,24 @@
+a = 1
+b = a
+a = 1 * a
+c = 1 + a
+d = b + d
+jmp label
+d = d + 1
+a = a ** 2
+d = a + b
+f = 1 * f
+g = 6
+f = g + 2 
+e = a + b
+a = 3 * 1
+a = b * 32
+b = 5 / 2
+c = c + 0
+a = a + 2
+jmp label
+b = 1 * b
+a = a * 32
+a = 1 * a
+label: a = 1 * a
+a = a * 32
